@@ -1,0 +1,9 @@
+{
+  "origins": [
+    "https://www.rajeevedmonds.com",
+    "https://friendly-albattani-7a1adc.netlify.app"
+  ],
+  "originsRegex": [
+    "http:\/\/localhost:[0-9]+"
+  ]
+}
