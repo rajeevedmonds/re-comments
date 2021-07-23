@@ -1,6 +1,9 @@
 {
   "origins": [
     "https://www.rajeevedmonds.com",
+    "http://www.rajeevedmonds.com",
+    "https://rajeevedmonds.com",
+    "http://rajeevedmonds.com".
     "https://friendly-albattani-7a1adc.netlify.app"
   ],
   "originsRegex": [
